@@ -1,0 +1,10 @@
+/Users/cbbiryol/Desktop/CODING_APPS/C_Sharp/NumberGuesser/bin/Release/netcoreapp2.1/NumberGuesser.deps.json
+/Users/cbbiryol/Desktop/CODING_APPS/C_Sharp/NumberGuesser/bin/Release/netcoreapp2.1/NumberGuesser.runtimeconfig.json
+/Users/cbbiryol/Desktop/CODING_APPS/C_Sharp/NumberGuesser/bin/Release/netcoreapp2.1/NumberGuesser.runtimeconfig.dev.json
+/Users/cbbiryol/Desktop/CODING_APPS/C_Sharp/NumberGuesser/bin/Release/netcoreapp2.1/NumberGuesser.dll
+/Users/cbbiryol/Desktop/CODING_APPS/C_Sharp/NumberGuesser/bin/Release/netcoreapp2.1/NumberGuesser.pdb
+/Users/cbbiryol/Desktop/CODING_APPS/C_Sharp/NumberGuesser/obj/Release/netcoreapp2.1/NumberGuesser.csproj.CoreCompileInputs.cache
+/Users/cbbiryol/Desktop/CODING_APPS/C_Sharp/NumberGuesser/obj/Release/netcoreapp2.1/NumberGuesser.AssemblyInfoInputs.cache
+/Users/cbbiryol/Desktop/CODING_APPS/C_Sharp/NumberGuesser/obj/Release/netcoreapp2.1/NumberGuesser.AssemblyInfo.cs
+/Users/cbbiryol/Desktop/CODING_APPS/C_Sharp/NumberGuesser/obj/Release/netcoreapp2.1/NumberGuesser.dll
+/Users/cbbiryol/Desktop/CODING_APPS/C_Sharp/NumberGuesser/obj/Release/netcoreapp2.1/NumberGuesser.pdb
